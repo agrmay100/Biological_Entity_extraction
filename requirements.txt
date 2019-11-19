@@ -6,7 +6,7 @@
     ##to install all requiements use 'pip install -r /path/to/requirements.txt
 
 
-Flask==0.12.2
+Flask==1.0
 matplotlib==2.1.2
 pandas==0.22.0
 numpy==1.14.0
